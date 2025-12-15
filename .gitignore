@@ -57,11 +57,4 @@ Thumbs.db
 # Pickle files (can be regenerated)
 *.pkl
 
-# Keep only documentation images in results folders
-# (Override for specific result images you want to keep)
-!confusion_matrices_corrected.png
-!model_performance_bar_chart.png
-!results_notebook_1/*.png
-!results_notebook_1.1/*.png
-!results_notebook_2*/*.png
 
