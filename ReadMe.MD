@@ -13,12 +13,11 @@ Pneumonia is an acute respiratory infection that significantly impacts global he
 
 The objective of this project is to develop and evaluate a machine learning pipeline to automatically classify chest X-ray images as either depicting Normal lungs or lungs with Pneumonia.
 
-## Proposed Dataset:
+## Proposed Dataset
     - Source: Chest X-Ray Images (Pneumonia) – Kaggle
         Link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
     - Contains 5,863 pediatric chest X-ray images divided int training, validation, and test sets.
     - Binary classification: Normal vs Pneumonia. 
-
 
 ## Dual-Approach Implementation
 
