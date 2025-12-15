@@ -32,9 +32,12 @@ MANIFEST
 
 # Data directories (X-ray images are too large for GitHub)
 chest_xray/
-*.jpeg
-*.jpg
-*.png
+chest_xray/**/*.jpeg
+chest_xray/**/*.jpg
+chest_xray/**/*.png
+
+# Ignore image files in the data directory, but keep result visualizations
+# Note: Result PNGs in results_notebook_* folders are tracked
 
 # Virtual Environment
 venv/
